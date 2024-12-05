@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body{
+    background-color: #4e7c44;
+}
+#container{
+    width: 60%;
+}
+h1{
+    color: white;
+}
+img{
+    width: 90%;
+    padding: 10px;
+}
+figure{
+    border: 3px solid rgb(86, 133, 87);
+    text-align: center;
+}
+table {
+    /* width: 60%; */
+    border-collapse: collapse; 
+}
+
+table, th, td {
+    border: 2px solid #000; 
+    background-color: #98ca92; 
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    width: 50%;
+    text-align: center;
+}
+
+a{
+    text-decoration: none; 
+    color: #7c6493; 
+}
+#bottom{
+    color:white;
+    text-align: center;
+}
